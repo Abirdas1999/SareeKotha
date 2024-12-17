@@ -405,9 +405,13 @@ you can use the generic selector below, but it's slower:
 }
 .arrow_left:before {
 	content: "\23";
+	color: #5553531c;
+
 }
 .arrow_right:before {
 	content: "\24";
+	color: #5553531c;
+	/* color: #0505051c; */
 }
 .arrow_left-up:before {
 	content: "\25";
