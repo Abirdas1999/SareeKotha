@@ -634,6 +634,9 @@ ol {
 	color: white;
 	transition: 0.3s;
 }
+.header__menu button{
+	font-weight: 700;
+}
 @media (max-width: 576px) {
     .hero__text p{
         font-size: 0.8rem !important;
